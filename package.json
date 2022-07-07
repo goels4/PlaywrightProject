@@ -11,6 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/test": "^1.23.1"
+    "@playwright/test": "^1.23.1",
+    "allure-playwright": "^2.0.0-beta.18"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1"
   }
 }
